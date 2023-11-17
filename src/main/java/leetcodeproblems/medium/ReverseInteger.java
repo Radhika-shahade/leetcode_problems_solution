@@ -1,4 +1,4 @@
-package src.main.java.leetcodeproblems.easy;
+package src.main.java.leetcodeproblems.medium;
 // Problem : 7 Reverse Integer
 import java.util.Stack;
 
