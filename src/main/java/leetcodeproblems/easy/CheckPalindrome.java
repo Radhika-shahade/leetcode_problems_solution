@@ -1,4 +1,4 @@
-package src.main.java.leetcodeproblems.easy;
+package leetcodeproblems.easy;
 // Problem:9 Palindrome Number
 public class CheckPalindrome {
     public boolean isPalindrome(int x)
