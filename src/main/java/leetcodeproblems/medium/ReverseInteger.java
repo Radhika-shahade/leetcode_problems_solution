@@ -1,5 +1,7 @@
 package src.main.java.leetcodeproblems.medium;
 // Problem : 7 Reverse Integer
+import leetcodeproblems.medium.ReverseWord;
+
 import java.util.Stack;
 
 public class ReverseInteger {
