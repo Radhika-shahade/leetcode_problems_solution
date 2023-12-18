@@ -3,6 +3,7 @@ package leetcodeproblems.easy;
 public class ArmstrongNumber {
     public boolean isArmstrong(int x)
     {
+
         int originalNum= x;
         int temp =x;
         int count=0;
