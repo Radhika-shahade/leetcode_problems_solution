@@ -1,6 +1,6 @@
 package leetcodeproblems.easy;
 // Problem:9 Palindrome Number
-public class CheckPalindrome {
+ public class CheckPalindrome {
     public boolean isPalindrome(int x)
     {
         int num=x;
