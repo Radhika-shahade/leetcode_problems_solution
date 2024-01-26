@@ -1,4 +1,10 @@
 package dsapractice2;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
 //Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
 //        Output: [1,2,2,3,5,6]
 public class MergeSortedArray {
@@ -26,6 +32,16 @@ public class MergeSortedArray {
         {
             System.out.println(p);
         }
+        int a=10;
+        Integer t= a;
+        Integer y= Integer.valueOf(a);
+
+        int num=90;
+        Long b= (long) num;
+        int num2= Math.toIntExact(b);
+        int num3= b.intValue();
+        System.out.println(num2);
+
 
     }
 
